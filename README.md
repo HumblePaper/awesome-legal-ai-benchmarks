@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> The benchmarks, leaderboards, rubrics, harnesses and evaluation datasets that measure how well AI does legal work.
+> A list of the benchmarks, leaderboards, rubrics, harnesses and datasets by which AI is measured on legal work, each checked on its own page.
 
-This list is for people who build, buy or study legal AI and want to know how it is measured. Each line says who made the benchmark and when, what it measures and how large it is, gives the licence where the page states one, and links to the data, the harness, the paper and the leaderboard. Scores and rankings are left to the linked pages, because they change. Every entry was checked on its own page on 29 October 2026.
+This is a list of the benchmarks, leaderboards, rubrics, harnesses and datasets used to evaluate AI on legal work, maintained for the people who build, buy or study it. Legal AI is measured in many places and by many methods, and the list gathers them in one place. Each entry states who made the benchmark and when, what it measures and how large it is, gives the licence where one is stated, and links to the data, the harness, the paper and the leaderboard. Scores and rankings are not reproduced here. They date quickly, and the linked pages carry them. Every entry was checked on its own page on 29 October 2026.
 
 ## Contents
 
@@ -130,8 +130,8 @@ This list is for people who build, buy or study legal AI and want to know how it
 
 ## Contributing
 
-One entry per pull request, a link to the thing itself, and no number that is not on the linked page. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
+One entry per pull request, a link to the thing itself, and no number that is not on the linked page. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
 
 ## About
 
-Humblepaper, Inc. maintains this list. A benchmark is here because we have run it, read it or been pointed to it by someone who has. The list is CC0, so copy it freely.
+Humblepaper, Inc. maintains this list. A benchmark is here because it can be checked on its own page, not because of how any product scores on it. The list is released under CC0 and may be copied freely.
