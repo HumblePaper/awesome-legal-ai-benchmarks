@@ -27,4 +27,4 @@ Also:
 - Numbers only when they appear on the linked page. No rankings of models or vendors in the description.
 - A benchmark that is withdrawn or superseded stays, with a linked note saying so.
 
-Contract forms, playbooks and tools belong in [awesome-contract-negotiation](https://github.com/HumblePaper/awesome-contract-negotiation); general legal NLP resources belong in the related lists linked from the README.
+Contract forms, playbooks and tools belong in [awesome-contract-negotiation](https://github.com/HumblePaper/awesome-contract-negotiation). General legal NLP resources belong in the related lists linked from the README.
