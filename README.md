@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> A list of the benchmarks, leaderboards, rubrics, harnesses and datasets by which AI is measured on legal work, each checked on its own page.
+> How AI is measured on legal work: benchmarks, leaderboards, rubrics, harnesses and datasets, each checked on its own page.
 
-This is a list of the benchmarks, leaderboards, rubrics, harnesses and datasets used to evaluate AI on legal work, maintained for the people who build, buy or study it. Legal AI is measured in many places and by many methods, and the list gathers them in one place. Each entry states who made the benchmark and when, what it measures and how large it is, gives the licence where one is stated, and links to the data, the harness, the paper and the leaderboard. Scores and rankings are not reproduced here. They date quickly, and the linked pages carry them. Every entry was checked on its own page on 29 October 2026.
+Legal AI is measured in many places and by many methods. This list gathers them for the people who build, buy or study it. Each entry states who made the benchmark and when, what it measures and how large it is, gives the licence where one is stated, and links to the data, the harness, the paper and the leaderboard. Scores and rankings are not reproduced. They date quickly, and the linked pages carry them. Everything here was checked on its own page on 29 October 2026.
 
 ## Contents
 
@@ -130,8 +130,8 @@ This is a list of the benchmarks, leaderboards, rubrics, harnesses and datasets 
 
 ## Contributing
 
-One entry per pull request, a link to the thing itself, and no number that is not on the linked page. [CONTRIBUTING.md](CONTRIBUTING.md) sets out the rest.
+One entry per pull request, linked to the thing itself, with no number that the linked page does not state. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## About
 
-Humblepaper, Inc. maintains this list. A benchmark is here because it can be checked on its own page, not because of how any product scores on it. The list is released under CC0 and may be copied freely.
+Humblepaper, Inc. maintains this list. A benchmark is here because it can be checked on its own page, not because of how any product scores on it. Copy freely, CC0.
