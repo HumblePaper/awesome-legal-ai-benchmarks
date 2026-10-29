@@ -8,9 +8,9 @@
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> Benchmarks, leaderboards, rubrics, harnesses and evaluation datasets for AI in legal work.
+> The benchmarks, leaderboards, rubrics, harnesses and evaluation datasets that measure how well AI does legal work.
 
-For people who build, buy or study legal AI and want to know how it is measured. Each line says who made the benchmark, when, what it measures and how big it is, with the licence where the page states one, and links to the data, the harness, the paper and the leaderboard. No scores or rankings appear here. They change, and the linked pages carry them. Entries were checked on their own pages on 29 October 2026.
+This list is for people who build, buy or study legal AI and want to know how it is measured. Each line says who made the benchmark and when, what it measures and how large it is, gives the licence where the page states one, and links to the data, the harness, the paper and the leaderboard. Scores and rankings are left to the linked pages, because they change. Every entry was checked on its own page on 29 October 2026.
 
 ## Contents
 
@@ -130,8 +130,8 @@ For people who build, buy or study legal AI and want to know how it is measured.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, the link to the thing itself, and no numbers that are not on the linked page.
+One entry per pull request, a link to the thing itself, and no number that is not on the linked page. [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## About
 
-Maintained by Humblepaper, Inc. Everything here is listed because a reader told us it was useful or we used it ourselves. CC0: copy freely.
+Humblepaper, Inc. maintains this list. A benchmark is here because we have run it, read it or been pointed to it by someone who has. The list is CC0, so copy it freely.
