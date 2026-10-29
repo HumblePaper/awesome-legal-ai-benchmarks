@@ -1,5 +1,13 @@
 # Awesome Legal AI Benchmarks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+<a href="https://humblepaper.co"><img src="https://raw.githubusercontent.com/HumblePaper/.github/main/profile/mark.png" width="56" alt="Humblepaper"></a>
+</div>
+
+[![lint](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/actions/workflows/lint.yml/badge.svg)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/actions/workflows/lint.yml) [![last commit](https://img.shields.io/github/last-commit/HumblePaper/awesome-legal-ai-benchmarks)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/commits/main) [![contributors](https://img.shields.io/github/contributors/HumblePaper/awesome-legal-ai-benchmarks)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/graphs/contributors) [![licence CC0](https://img.shields.io/badge/licence-CC0-lightgrey)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/pulls)
+
+Sponsored by [Humblepaper](https://humblepaper.co).
+
 > Benchmarks, leaderboards, rubrics, harnesses and evaluation datasets for AI in legal work.
 
 For people who build, buy or study legal AI and want to know how it is measured. Each line says who made the benchmark, when, what it measures and how big it is, with the licence where the page states one, and links to the data, the harness, the paper and the leaderboard. No scores or rankings appear here; they change, and the linked pages carry them. Entries were checked on their own pages on 29 October 2026.
