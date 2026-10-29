@@ -1,0 +1,2 @@
+# pnas.org rejects scripted fetches behind the DOI redirect (checked 2026-10-29); the DOI resolves in a real browser
+^https://doi\.org/10\.1073/
