@@ -4,11 +4,11 @@
 <a href="https://humblepaper.co"><img src="https://raw.githubusercontent.com/HumblePaper/.github/main/profile/mark.png" width="56" alt="Humblepaper"></a>
 </div>
 
-[![lint](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/actions/workflows/lint.yml/badge.svg)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/actions/workflows/lint.yml) [![last commit](https://img.shields.io/github/last-commit/HumblePaper/awesome-legal-ai-benchmarks)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/commits/main) [![contributors](https://img.shields.io/github/contributors/HumblePaper/awesome-legal-ai-benchmarks)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/graphs/contributors) [![licence CC0](https://img.shields.io/badge/licence-CC0-lightgrey)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/pulls)
+[![last commit](https://img.shields.io/github/last-commit/HumblePaper/awesome-legal-ai-benchmarks)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/commits/main) [![contributors](https://img.shields.io/github/contributors/HumblePaper/awesome-legal-ai-benchmarks)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/graphs/contributors) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/HumblePaper/awesome-legal-ai-benchmarks/pulls)
 
 Sponsored by [Humblepaper](https://humblepaper.co).
 
-> How AI is measured on legal work: benchmarks, leaderboards, rubrics, harnesses and datasets, each checked on its own page.
+> How AI is measured on legal work, from benchmarks and leaderboards to the rubrics and datasets behind them.
 
 Legal AI is measured in many places and by many methods. This list gathers them for the people who build, buy or study it. Each entry states who made the benchmark and when, what it measures and how large it is, gives the licence where one is stated, and links to the data, the harness, the paper and the leaderboard. Scores and rankings are not reproduced. They date quickly, and the linked pages carry them. Everything here was checked on its own page on 29 October 2026.
 
@@ -134,4 +134,4 @@ One entry per pull request, linked to the thing itself, with no number that the 
 
 ## About
 
-Humblepaper, Inc. maintains this list. A benchmark is here because it can be checked on its own page, not because of how any product scores on it. Copy freely, CC0.
+Humblepaper, Inc. maintains this list. A benchmark is here because it can be checked on its own page, not because of how any product scores on it.
